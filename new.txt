@@ -1,2 +1,3 @@
 feature 1 creating changes for 2 doing from feature1(branch)
-doing chnges from feature one one 
+doing chnges frro feature 2
+
