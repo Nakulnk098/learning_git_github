@@ -1,1 +1,1 @@
-feature 1 creating changes for 2 
+feature 1 creating changes for 2 doing from feature1(branch)
